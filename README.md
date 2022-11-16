@@ -1,6 +1,10 @@
 [![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>)
-# qgis-reports-plugin
+# MODIFIED FROM: qgis-reports-plugin
 A plugin reporting overlapping GIS datasets
+
+# dim sa aluut'aat
+Gitxsan phrase meaning "To Create Understanding". This QGIS plugin creates an interactive dynamic document that assess values on the land base in comparison to potential disturbance applications. This tool is meant to serve all in an open and transparent manner, which can be added to by any with the interest or skill.
+
 
 ## Installation
 1. Download repo
